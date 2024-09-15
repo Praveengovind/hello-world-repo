@@ -5,6 +5,6 @@ jobs:
     first_job: 
         runs-on: ubuntu-latest
         steps:             
-          - name: Welcome Message
+          - name: Echo text
             run: echo "Hello, world!"
  
